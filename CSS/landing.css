@@ -9,8 +9,8 @@ body {
     background-color: rgba(185, 180, 164, 0.918);
     color: black;
     text-align: center;
-    padding: 2rem;
-    border-radius: 0.5rem;
+    padding: 1rem;
+    border-radius: 0.75rem;
     max-width: 1000px;
     min-height: 850px;
   }
@@ -18,7 +18,7 @@ body {
   
   .innerbox1 {
     margin: 2rem;
-    border-radius: 1rem;
+    border-radius: 0.75rem;
     padding: 2rem;
     background-color: rgb(63, 63, 63);
     color: white;
@@ -26,14 +26,14 @@ body {
 
   .innerbox2 {
     margin: 2rem;
-    border-radius: 1rem;
+    border-radius: 0.75rem;
     padding: 2rem;
     background-color: rgb(63, 63, 63);
     color: white;
   }
   .innerbox3 {
     margin: 2rem;
-    border-radius: 1rem;
+    border-radius: 0.75rem;
     padding: 2rem;
     background-color: rgb(63, 63, 63);
     color: white;
